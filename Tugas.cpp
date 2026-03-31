@@ -26,8 +26,11 @@ bool cekFibonacci(int x){
 
     while(a<=x){
         if(a==x){
-            return true
+            return true;
         }
+        c = a + b;
+        a = b;
+        b = c;
     }
 }
 
