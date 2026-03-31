@@ -20,6 +20,8 @@ bool cekPrima(int x){
     return true;
 }
 
-//fungsi cek bonnaci
-bool cekFibonnaci
+//fungsi cek bonacci
+bool cekFibonacci(int x){
+    int a = 0,b = 1,c;
+}
 
