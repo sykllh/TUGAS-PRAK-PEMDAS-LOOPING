@@ -20,3 +20,6 @@ bool cekPrima(int x){
     return true;
 }
 
+//fungsi cek bonnaci
+bool cekFibonnaci
+
