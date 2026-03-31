@@ -69,3 +69,10 @@ void menu(){
     cout<<"Pilih Menu = ";
     cin>>pilihan;
 }
+
+//program utama
+int main(){
+    while(true){
+        menu();
+    }
+}
