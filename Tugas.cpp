@@ -32,5 +32,10 @@ bool cekFibonacci(int x){
         a = b;
         b = c;
     }
+        return false;
 }
 
+//prosedur input angka
+void input(){
+    
+}
