@@ -52,5 +52,10 @@ void ouputPrima(){
 }
 
 void ouputFibonacci(){
-    if (cekFibonacci(n)){}
+    if(cekFibonacci(n)){
+        cout<<n <<"termasuk deret Fibonacci"<<endl;
+    }
+    else{
+        cout<<n <<"bukan termasuk bilangan Fibonacci"<<endl;
+    }
 }
