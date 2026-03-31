@@ -59,3 +59,8 @@ void ouputFibonacci(){
         cout<<n <<"bukan termasuk bilangan Fibonacci"<<endl;
     }
 }
+
+//prosedur menu
+void menu(){
+    
+}
