@@ -50,3 +50,7 @@ void ouputPrima(){
         cout<<n <<"bukan bilanga Prima"<<endl;
     }
 }
+
+void ouputFibonacci(){
+    if (cekFibonacci(n)){}
+}
