@@ -44,6 +44,9 @@ void input(){
 //prosedur output
 void ouputPrima(){
     if(cekPrima(n)){
-        
+        cout<<n <<"adalah bilang Prima"<<endl;
+    }
+    else{
+        cout<<n <<"bukan bilanga Prima"<<endl;
     }
 }
