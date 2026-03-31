@@ -40,3 +40,10 @@ void input(){
     cout<<"Masukkan angka : ";
     cin>>n;
 }
+
+//prosedur output
+void ouputPrima(){
+    if(cekPrima(n)){
+        
+    }
+}
